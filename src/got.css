@@ -1,3 +1,4 @@
-#video {
-    visibility: hidden;
-}
+ #video {
+     visibility: hidden;
+     position: absolute;
+ }
