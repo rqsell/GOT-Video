@@ -47,7 +47,8 @@ class Scene {
 }
 let scene1 = new Scene("Armies Assemble", "../video/scene 2_ dragon fight (1).mp4", "drogonattack", "flamingarrows", "../video/scene 2_ dragon fight (1).mp4", "../video/scene 2_ dragon fight (1).mp4")
 let scene2 = new Scene("Viserion Attacks", "../video/scene 2_ viserion attack.mp4", "drogonattack", "flamingarrows", "../video/scene 2_ dragon fight (1).mp4", "../video/scene 2_ dragon fight (1).mp4")
-let scene3 = new Scene("Army is exhausted", "../video/scene 2_ dragon fight (1).mp4", "drogonattack", "flamingarrows", "../video/scene 2_ dragon fight (1).mp4", "../video/scene 2_ dragon fight (1).mp4")
+let scene3 = new Scene("Army is exhausted", "../video/army exhausted.mp4", "refuel", "charge", "../video/drink.mp4", "../video/charge.mp4")
+let scene4 = new Scene("Mormont Dies", "../video/mormont-dies.mp4", "grieve", "rage", "../video/grief.mp4", "../video/dragonrage.mp4")
 let snowstory = new Story("Jon Snow", "Longclaw")
 console.log(snowstory)
 
